@@ -5,4 +5,4 @@
 <p align="left">
   <img alt="" style="{max-height: 20px}" src="./img/Download Folio/Download Folio.png">
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shahzal-Rehman)]
+[![trophy](https://github-profile-trophy.vercel.app/Shahzal-Rehmanryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
