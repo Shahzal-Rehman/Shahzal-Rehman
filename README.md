@@ -1,22 +1,27 @@
 <div align="center">
 
-# Shahzal-Rehman 샘 `(Shahzal-Rehma.github.io)`
+# Shahzal Rehman 샘 `(Shahzal-Rehman.github.io)`
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shahzal-Rehman&theme=onedark)](https://github.com/Shahzal-Rehman/github-profile-trophy)
 
-<p align="left">
-  <img alt="Download Folio" style="max-height: 20px" src="./img/Download Folio/Download Folio.png">
+<p align="center">
+  <a href="./img/Download Folio/Download Folio.png">
+    <img alt="Download Folio" style="max-height: 60px" src="./img/Download Folio/Download Folio.png">
+  </a>
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzal-Rehman&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzal-Rehman&layout=compact&theme=transparent)
+
+## Connect with me:
+<div>
+  <a href="https://www.youtube.com/channel/UCHD_wGlQFIfwfScoZ55urfw">
+    <img width="58" src="https://yourdomain.com/assets/youtube.png" alt="YouTube">
+  </a>
+  
+  <a href="https://mlsapro.com/">
+    <img width="48" src="https://yourdomain.com/assets/yourlogo.png" alt="Website">
+  </a>
 </div>
-<div align="center">
-![](https://github-readme-stats.vercel.app/api?username=ad2017gd&show_icons=true&theme=transparent)
-  
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad2017gd&show_icons=true&theme=transparent)
-  
-you can find me at :
-<div align="center">
-                <a href="https://ad2017.dev/youtube"><img width="58" src="https://ad2017.dev/assets/youtube.png"></a>
-                <a href="https://ad2017.dev/twitter"><img width="48" src="https://ad2017.dev/assets/twitter.png"></a>
-                <a href="https://ad2017.dev/"><img width="48" src="https://ad2017.dev/assets/ad2017.jpg"></a>
-            </div>
+
+</div>
