@@ -8,3 +8,15 @@
 </p>
 
 </div>
+<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=ad2017gd&show_icons=true&theme=transparent)
+  
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ad2017gd&show_icons=true&theme=transparent)
+  
+you can find me at :
+<div align="center">
+                <a href="https://ad2017.dev/youtube"><img width="58" src="https://ad2017.dev/assets/youtube.png"></a>
+                <a href="https://ad2017.dev/twitter"><img width="48" src="https://ad2017.dev/assets/twitter.png"></a>
+                <a href="https://ad2017.dev/"><img width="48" src="https://ad2017.dev/assets/ad2017.jpg"></a>
+            </div>
