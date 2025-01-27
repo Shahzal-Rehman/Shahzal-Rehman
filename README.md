@@ -47,11 +47,11 @@ Biography
 ---
 
 <p align="center">
-  <video width="480" height="270" controls>
-    <source src="./img/Download Folio/1730069428926.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="./img/Download Folio/1730069428926.gif" download>
+    <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/1730069428926.gif">
+  </a>
 </p>
+
 
 
 ---
