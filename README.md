@@ -49,7 +49,7 @@ Biography
 
 <p align="center">
   <a href="./img/Download Folio/1730069428926.mp4">
-    <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/Download Folio.png">
+    <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/1730069428926.mp4">
   </a>
 </p>
 
