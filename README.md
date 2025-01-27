@@ -30,8 +30,7 @@ Biography
 
 
 📝 Zindagi ka har pal ek kahani hai, let’s make every moment extraordinary together!
-「✨ Mr. Shaihzu ke saath, har pal banaye khaas! ✨」mbassador, GitHub Campus Program Contributor  
-
+「✨ Mr. Shaihzu ke saath, har pal banaye khaas! ✨」
 ---
 
 ## 🔧 Tech Stack
@@ -49,7 +48,7 @@ Biography
 
 <p align="center">
   <video width="480" height="270" controls>
-    <source src="https://shahzal-rehman.github.io/assets/1730069428926.mp4" type="video/mp4">
+    <source src="./img/Download Folio/1730069428926.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
@@ -68,13 +67,13 @@ Discover my projects, achievements, and contributions on my personal website.
   <a href="https://www.youtube.com/channel/UCHD_wGlQFIfwfScoZ55urfw" target="_blank">
     <img alt="YouTube" width="48" src="https://img.icons8.com/color/48/youtube-play.png">
   </a>
-  <a href="https://mlsapro.com/" target="_blank">
+  <a href="https://shaihzu.org/" target="_blank">
     <img alt="Website" width="48" src="https://img.icons8.com/ios-filled/48/globe.png">
   </a>
-  <a href="https://linkedin.com/in/shahzalrehman" target="_blank">
+  <a href="https://linkedin.com/in/mr-shaihzu" target="_blank">
     <img alt="LinkedIn" width="48" src="https://img.icons8.com/color/48/linkedin.png">
   </a>
-  <a href="https://twitter.com/Shahzal_Rehman" target="_blank">
+  <a href="https://twitter.com/Mr_Shaihzu" target="_blank">
     <img alt="Twitter" width="48" src="https://img.icons8.com/color/48/twitter--v1.png">
   </a>
 </p>
