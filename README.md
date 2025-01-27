@@ -49,7 +49,7 @@ Biography
 
 <p align="center">
   <video width="480" height="270" controls>
-    <source src="./img/Download Folio/1730069428926.mp4" type="video/mp4">
+    <source src="https://shahzal-rehman.github.io/assets/1730069428926.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
