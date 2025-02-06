@@ -58,10 +58,9 @@
 ### [Portfolio Website]([https://houseofshaizu.com](https://sites.google.com/view/mr-shaihzu))  
 Discover my projects, achievements, and contributions on my personal website.  
 <p align="center">
-https://HouseOfShaizu.com
+https://HouseOfShaizu.com <br>
 https://sites.google.com/view/mr-shaihzu
 </p>
----
 
 ## 🤝 Connect with Me
 <p align="center">
