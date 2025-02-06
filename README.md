@@ -28,7 +28,7 @@
 
 
 📝 Zindagi ka har pal ek kahani hai, let’s make every moment extraordinary together!
-「✨ Mr. Shaihzu ke saath, har pal banaye khaas! ✨」
+「✨ Mr. Shaizu ke saath, har pal banaye khaas! ✨」
 ---
 
 ## 🔧 Tech Stack
