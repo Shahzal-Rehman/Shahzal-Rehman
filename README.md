@@ -16,16 +16,14 @@
 ---
 
 ## Headline 
-Main hoon 「✦ Mr. Shaihzu ✦ 」 🎀 "Doing It With Style, Every Step of the Way!" 🚀
-Biography
 「🌟 Hey Doston! 🌟」Main hoon ┊✦ Mr. Shaihzu ✦ ┊ 🚀
 🎀 Mission: To do everything with A style! 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 🌍 Hasilpur ka Fakhar, but here to be everyone’s favorite! 💖
 
 ✨ Be part of the adventure:
-▶️ YouTube: youtube.com/Mr_Shaihzu
-📸 Instagram: instagram.com/MrShaihzu
-🔗 LinkedIn: linkedin.com/in/mr-shaihzu
+▶️ YouTube: youtube.com/HouseOfShaihzu
+📸 Instagram: instagram.com/HouseOfShaihzu
+🔗 LinkedIn: linkedin.com/in/HouseOfShaihzu
 ⓕ Facebook: facebook.com/Mr.Shaihzu19
 
 
@@ -57,9 +55,12 @@ Biography
 ---
 
 ## 🌐 Explore My Work
-### [Portfolio Website]([https://shahzal.com](https://sites.google.com/view/mr-shaihzu))  
+### [Portfolio Website]([https://houseofshaizu.com](https://sites.google.com/view/mr-shaihzu))  
 Discover my projects, achievements, and contributions on my personal website.  
-
+<p align="center">
+https://HouseOfShaizu.com
+https://sites.google.com/view/mr-shaihzu
+</p>
 ---
 
 ## 🤝 Connect with Me
@@ -67,13 +68,13 @@ Discover my projects, achievements, and contributions on my personal website.
   <a href="https://www.youtube.com/channel/UCHD_wGlQFIfwfScoZ55urfw" target="_blank">
     <img alt="YouTube" width="48" src="https://img.icons8.com/color/48/youtube-play.png">
   </a>
-  <a href="https://shaihzu.org/" target="_blank">
+  <a href="https://HouseOfShaizu.com/" target="_blank">
     <img alt="Website" width="48" src="https://img.icons8.com/ios-filled/48/globe.png">
   </a>
-  <a href="https://linkedin.com/in/mr-shaihzu" target="_blank">
+  <a href="https://linkedin.com/in/HouseOfShaizu" target="_blank">
     <img alt="LinkedIn" width="48" src="https://img.icons8.com/color/48/linkedin.png">
   </a>
-  <a href="https://twitter.com/Mr_Shaihzu" target="_blank">
+  <a href="https://twitter.com/HouseOfShaizu" target="_blank">
     <img alt="Twitter" width="48" src="https://img.icons8.com/color/48/twitter--v1.png">
   </a>
 </p>
@@ -81,9 +82,11 @@ Discover my projects, achievements, and contributions on my personal website.
 ---
 
 ## 🏆 Achievements
-- **Creds Ambassador:** Celebrating achievements in the global tech community.
-- **GitHub Campus Program:** Contributor and active participant.
-- **Microsoft Learn Student Ambassador:** Inspiring others in tech.
+- ** Creds Ambassador:** Celebrating achievements in the global tech community.
+- ** GitHub Campus Program:** Contributor and active participant.
+- **** Microsoft Learn Student Ambassador:** Inspiring others in tech.
+- **** Social Winter of Code:** Menor of Contributors and active participant
+- ***** Girl Script Summer of Code :** Participant as Contributor 
 
 ---
 
@@ -91,9 +94,11 @@ Discover my projects, achievements, and contributions on my personal website.
 - Achieve Microsoft MVP status.
 - Lead innovative projects in AI and cloud computing.
 - Expand my open-source contributions to impact more developers worldwide.
-
+- Make a Tech Impact on the society
+- To Make Ai Beniftial for Man Kind
+- To Mke Every Individual Human a Tech Innovator
 ---
 
 <div align="center">
-  <p>✨ Stay connected and join me in my tech journey! ✨</p>
+  <p>✨ Stay connected and join me in my tech journey! ✨ https://www.linkedin.com/in/HouseOfShaizu </p>
 </div>
