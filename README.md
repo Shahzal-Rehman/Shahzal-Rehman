@@ -16,14 +16,14 @@
 ---
 
 ## Headline 
-「🌟 Hey Doston! 🌟」Main hoon ┊✦ Mr. Shaihzu ✦ ┊ 🚀
+「🌟 Hey Doston! 🌟」Main hoon ┊✦ Mr. Shaihu ✦ ┊ 🚀
 🎀 Mission: To do everything with A style! 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 🌍 Hasilpur ka Fakhar, but here to be everyone’s favorite! 💖
 
 ✨ Be part of the adventure:
-▶️ YouTube: youtube.com/HouseOfShaihzu
-📸 Instagram: instagram.com/HouseOfShaihzu
-🔗 LinkedIn: linkedin.com/in/HouseOfShaihzu
+▶️ YouTube: youtube.com/HouseOfShaizu
+📸 Instagram: instagram.com/HouseOfShaizu
+🔗 LinkedIn: linkedin.com/in/HouseOfShaizu
 ⓕ Facebook: facebook.com/Mr.Shaihzu19
 
 
