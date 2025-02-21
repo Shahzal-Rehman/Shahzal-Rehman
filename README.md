@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="./img/Download Folio/Download Folio.png">
-    <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/Download Folio.png">
+    <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/Download Folio.PNG">
   </a>
 </p>
 
