@@ -16,7 +16,7 @@
 ---
 
 ## Headline 
-「🌟 Hey Doston! 🌟」Main hoon ┊✦ Mr. Shaihu ✦ ┊ 🚀
+「🌟 Hey Doston! 🌟」Main hoon ┊✦ Mr. Shaizu ✦ ┊ 🚀
 🎀 Mission: To do everything with A style! 𝄃𝄃𝄂𝄂𝄀𝄁𝄃𝄂𝄂𝄃
 🌍 Hasilpur ka Fakhar, but here to be everyone’s favorite! 💖
 
@@ -55,11 +55,11 @@
 ---
 
 ## 🌐 Explore My Work
-### [Portfolio Website]([https://houseofshaizu.com](https://sites.google.com/view/mr-shaihzu))  
+### [Portfolio Website]([https://houseofshaizu.com](https://sites.google.com/view/houseofshaizu))  
 Discover my projects, achievements, and contributions on my personal website.  
 <p align="center">
 https://HouseOfShaizu.com <br>
-https://sites.google.com/view/mr-shaihzu
+https://sites.google.com/view/houseofshaizu
 </p>
 
 ## 🤝 Connect with Me
