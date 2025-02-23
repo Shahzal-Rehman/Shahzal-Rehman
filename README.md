@@ -6,7 +6,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shahzal-Rehman&theme=onedark)](https://github.com/Shahzal-Rehman/github-profile-trophy)
 
 <p align="center">
-  <a href="./img/Download Folio/Download Folio.png">
+  <a href="./img/Download Folio/Download Folio.PNG">
     <img alt="Download Folio" style="max-height: 100px" src="./img/Download Folio/Download Folio.PNG">
   </a>
 </p>
