@@ -9,6 +9,15 @@
 
 ---
 
+---
+
+### 📂 Download Folio
+<p align="left">
+  <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png">
+</p>
+
+---
+
 ### 👑 About Me
 
 ```yaml
@@ -26,13 +35,6 @@ Currently: HSSC - ICS Physics @ Punjab College
 ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shahzal-Rehman&theme=onedark&margin-w=10&no-frame=true)](https://github.com/Shahzal-Rehman)
-
----
-
-### 📂 Download Folio
-<p align="left">
-  <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png">
-</p>
 
 ---
 
