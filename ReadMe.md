@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Shahzal-Rehman 샘 `(RehmanTribe-Rehman.github.io)`
+# Shahzal-Rehman 샘 `(Shahzal-Rehman.github.io)`
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-RehmanTribe-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/RehmanTribe)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-RehmanTribe-blue?style=for-the-badge&logo=facebook)](https://fb.com/RehmanTribe)
 
@@ -11,7 +11,6 @@
 
 ---
 
-### 📂 Download Folio
 <p align="left">
   <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png">
 </p>
