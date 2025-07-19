@@ -84,7 +84,6 @@ When he’s not acting or influencing, you’ll find him sharing stories, connec
 > 📡 Drop by or ping me on socials.  
 > 💬 DMs always open for open-source collabs, tech talks, or design help!
 
-```yaml
 <p align="center"> 
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:shahzalrehman0302@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
@@ -93,7 +92,6 @@ When he’s not acting or influencing, you’ll find him sharing stories, connec
 	 <a href="https://www.instagram.com/iamshahzal/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<!--<a href="https://youtube.com/@iamshahzal"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 </p>
-```
 
 ---
 
