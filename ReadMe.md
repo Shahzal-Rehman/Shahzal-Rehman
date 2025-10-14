@@ -2,8 +2,8 @@
 <div align="center">
 
 # Shahzal-Rehman 샘 `(Shahzal-Rehman.github.io)`
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-iamshahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/iamshahzal)
-[![Facebook](https://img.shields.io/badge/📘%20Facebook-iamshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/iamshahzal)
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-orgshazal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/orgshazal)
+[![Facebook](https://img.shields.io/badge/📘%20Facebook-orgshazal-blue?style=for-the-badge&logo=facebook)](https://fb.com/orgshazal)
 
 </div>
 
@@ -22,7 +22,7 @@
 Name: Shahzal Rehman 샘  
 Title: Beta MLSA | GitHub Certified | IBM Design Thinker  
 Focus: Cloud, AI, Storytelling  
-Currently: HSSC - ICS Physics @ Punjab College  
+Currently: BS Cyber Security @ Superior Univeristy Gold Campus,Lahore
 ```
 
 > 🚀 Rising Youth Influencer, Microsoft Learn Student Ambassador, GitHub Contributor, and Tech Event Organizer.
@@ -55,24 +55,14 @@ Currently: HSSC - ICS Physics @ Punjab College
 
 ---
 ### 📣 Let's Discuss Biography!
-His Excellency is a rising child actor, creative storyteller, and youth influencer with a unique British accent that makes him stand out in a crowd of over ~1.53k students at his college. Balancing school life with his passions, Shahzal is already making waves both on stage and in the community.
-His Education?
-Currently studying HSSC-ICS-Physics (2023–2025) at Punjab Group of Colleges,Hasilpur and having completed SSC-Bio (2021–2023) at Fauji Foundation School,Hasilpur Shahzal brings focus and dedication to everything he does. Beyond academics, he’s well-known for his engaging presence, whether he’s leading events, telling stories, or inspiring his peers.
-His Tech Achievements?
-Though young, Shahzal has achieved remarkable recognition as the youngest 5x Microsoft CCP awardee of the year 2025 and holds the prestigious Defender XDR and SIEM Black Belt from Microsoft — accomplishments that add a unique edge to his creative journey. As a MSFT SA (Beta) and GitHub Certified professional, along with various other credentials, he has made a significant impact on both the international and local levels.
-His mission?
-He’s passionate about challenging norms and using his voice — on screen and off — to inspire change and connect with people. Whether in front of the camera or engaging an audience, Shahzal believes in making every moment count and creating positive impact wherever he goes.
-When he’s not acting or influencing, you’ll find him sharing stories, connecting with friends, or simply enjoying life as a vibrant young leader in his community.
-✨ He is here for you; 
-▶️ youtube.com/iamshahzal
- 📸 instagram.com/iamshahzal
-🔗linkedin.com/in/iamshahzal
-ⓕ facebook.com/iamshahzal
-ⓕ facebook.com/ShahzalTribe
-ⓕ facebook.com/RehmanTribe2024
-「✨Shahzal Rehman ke saath ✨」
- ✦-- GitHub | AWS | IBM | MLSA, CCP @ MSFT | Creds -----✦ credly.com/users/shahzal-rehman
-
+( Shahzal also Known As Shazal ) I am Currently pursuing BS in CYBER SECURITY (2025-2029) from Superior University Gold Campus,Lahore after completing HSSC in ICS-Physics (2023–2025) from Punjab Group of Colleges and SSC in Biology (2021–2023) from Fauji Foundation School, I bring focus, passion, and initiative to every role i step into — from classroom to stage.Being Recognized early in my journey, I am multi-time Microsoft credential holder, including youngest 5x Microsoft CCP awardee of the year 2025 and holding the prestigious Defender XDR Black Belt from Microsoft — . As a Microsoft Student Ambassador (Beta) and GitHub Certified professional, along with various other credentials, i have made a significant impact on both the international and local levels.My passion lies in creating real impact — through storytelling, leadership, and digital engagement. Whether hosting college events, creating content, or mentoring peers, i bring purpose to every interaction.
+✨ I am here for you;
+▶️ youtube.com/ShahzalRehman
+🔗 linkedin.com/in/orgshazal
+ⓕ facebook.com/orgshazal
+🔗 linkedin.com/company/shazalofficial
+「✨With Shahzal Rehman ✨」 
+✦-- GitHub | AWS | IBM | MLSA, CCP @ MSFT | Creds -----✦ credly.com/users/shahzal-rehman
 ---
 
 
@@ -88,9 +78,9 @@ When he’s not acting or influencing, you’ll find him sharing stories, connec
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:shahzalrehman0302@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/shahzal-rehman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/iamshahzal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	 <a href="https://www.instagram.com/iamshahzal/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<!--<a href="https://youtube.com/@iamshahzal"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
+	<a href="https://in.linkedin.com/in/orgshazal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	 <a href="https://www.instagram.com/orgshazal/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<!--<a href="https://youtube.com/@shahzalrehmanoriginal"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 </p>
 
 ---
