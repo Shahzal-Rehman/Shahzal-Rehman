@@ -16,7 +16,7 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 <h1 align="center">
   Bio
 </h1>
-  <p align="center"> <img alt="Download Folio" style="max-height: 10px;" src="https://avatars.githubusercontent.com/u/119114795?v=4"> </p>
+  
 
 👋 Myself Shahzal Rehman — a young technologist on a mission to become a 𝐅𝐮𝐭𝐮𝐫𝐞 Chief Information Security Officer  (𝐂𝐈𝐒𝐎𝐬) @ 𝐌𝐲 𝐃𝐫𝐞𝐚𝐦 𝐂𝐨𝐦𝐩𝐚𝐧𝐲, and someone about shaping my own era.
 Today, I’m building things, mentoring learners, and working with global tech communities.
@@ -76,16 +76,17 @@ That realization changed everything.
 
 
 ### 📣 Let's Connect!
-
-> 🔗 **Explore, Collaborate, Impact.**  
-> 📡 Drop by or ping me on socials.  
-> 💬 DMs always open for open-source collabs, tech talks, or design help!
+📩 And if you’re reading this — I’m here for you.
+→ 𝐃𝐌 me for collaborations or mentorship
+→ Follow for cybersecurity, cloud, and certification insights
+Because honestly,
+you 𝐝𝐨𝐧’𝐭 have to 𝐥𝐞𝐚𝐫𝐧 everything the 𝐡𝐚𝐫𝐝 𝐰𝐚𝐲.
 
 <p align="center"> 
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:shahzalrehman0302@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/shahzal-rehman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/orgshahzal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://in.linkedin.com/in/shahzal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<!--<a href="https://youtube.com/@shahzalrehman"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 </p>
 
