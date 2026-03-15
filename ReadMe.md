@@ -2,8 +2,6 @@
 <div align="center">
 
 # Shahzal-Rehman 샘 `(Shahzal-Rehman.github.io)`
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-orgshahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/orgshahzal)
-[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
 
 </div>
 
@@ -16,22 +14,19 @@
 
 ---
 
-### 👑 CCP & MVP(XDR & SIEM) + MLSA Communities @ Microsoft
+### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
 
 ```yaml
 Name: Shahzal Rehman 샘  
-Title: Beta MLSA | GitHub Certified | IBM Design Thinker  
-Focus: Cloud, AI, Storytelling  
-Currently: BS Cyber Security @ Superior Univeristy Gold Campus,Lahore
+Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection Advisors Program (XDR & SIEM)  
+Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
+Currently: Microsoft XDR ANd Entra Security Advisors Program
 ```
-
-> 🚀 Rising Youth Influencer, Microsoft Student Ambassador, GitHub Contributor, and Tech Event Organizer.
 
 ---
 
 ### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shahzal-Rehman&theme=onedark&margin-w=10&no-frame=true)](https://github.com/Shahzal-Rehman)
+![](https://github-trophies.vercel.app/?username=Shahzal-Rehman)
 
 ---
 
@@ -69,6 +64,8 @@ As a Microsoft Student Ambassador (Beta) and GitHub Certified professional, alon
  ✦-- GitHub | AWS | IBM | MLSA, CCP @ MSFT | Creds -----✦ credly.com/users/shahzal-rehman
 ---
 
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
+[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
 
 
 
