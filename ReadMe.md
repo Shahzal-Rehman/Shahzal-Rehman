@@ -27,13 +27,12 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 ![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
 
 ---
-
----
+<p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
 [![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
 
-
+</p>
 
 
 ### 📊 GitHub Stats
