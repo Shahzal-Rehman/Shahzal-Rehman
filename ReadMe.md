@@ -16,8 +16,7 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 <h1 align="center">
   Bio
 </h1>
-  
-<img  width="150" height="150" src="https://avatars.githubusercontent.com/u/119114795?v=4" />
+  <p align="left"> <img alt="Download Folio" style="max-height: 20px;" src="https://avatars.githubusercontent.com/u/119114795?v=4"> </p>
 
 👋 Myself Shahzal Rehman — a young technologist on a mission to become a 𝐅𝐮𝐭𝐮𝐫𝐞 Chief Information Security Officer  (𝐂𝐈𝐒𝐎𝐬) @ 𝐌𝐲 𝐃𝐫𝐞𝐚𝐦 𝐂𝐨𝐦𝐩𝐚𝐧𝐲, and someone about shaping my own era.
 Today, I’m building things, mentoring learners, and working with global tech communities.
