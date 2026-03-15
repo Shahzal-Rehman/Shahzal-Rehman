@@ -18,6 +18,7 @@
 
 ### 🏆 GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Shahzal-Rehman)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shahzal-rehman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
