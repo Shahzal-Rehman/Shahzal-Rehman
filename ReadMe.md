@@ -1,10 +1,4 @@
 
-<div align="center">
-
-# Shahzal-Rehman 샘 `(Shahzal-Rehman.github.io)`
-
-</div>
-
 ### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
 
 ```yaml
@@ -13,6 +7,7 @@ Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection
 Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
 Currently: Microsoft XDR ANd Entra Security Advisors Program
 ```
+<p align="left"> <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png"> </p>
 <h1 align="center">
   Bio
 </h1>
