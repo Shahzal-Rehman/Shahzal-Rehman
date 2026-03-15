@@ -17,9 +17,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-<div align="center"> 
+ 
 ![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
-	</div>
+
 ---
 
 ### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
