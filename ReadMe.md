@@ -2,7 +2,7 @@
 ### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
 
 ```yaml
-Name: Shahzal Rehman 샘  
+Name: Shahzal Rehman 
 Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection Advisors Program (XDR & SIEM)  
 Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
 Currently: Microsoft XDR ANd Entra Security Advisors Program
@@ -81,7 +81,7 @@ you 𝐝𝐨𝐧’𝐭 have to 𝐥𝐞𝐚𝐫𝐧 everything the 𝐡𝐚𝐫
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:shahzalrehman0302@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/shahzal-rehman"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://in.linkedin.com/in/shahzal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/shahzal"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 	<!--<a href="https://youtube.com/@shahzalrehman"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="Youtube"/></a> -->
 </p>
 
@@ -89,6 +89,6 @@ you 𝐝𝐨𝐧’𝐭 have to 𝐥𝐞𝐚𝐫𝐧 everything the 𝐡𝐚𝐫
 
 <div align="center">
   
-**Made with ❤️ by Shahzal-Rehman 샘 | Powered by ⚙️ Futuristic Vision**
+**Made with ❤️ by Shahzal-Rehman | Powered by ⚙️ Futuristic Vision**
 
 </div>
