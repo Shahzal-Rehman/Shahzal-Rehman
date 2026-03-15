@@ -14,6 +14,13 @@
 
 ---
 
+---
+
+### 🏆 GitHub Trophies
+![](https://github-trophies.vercel.app/?username=Shahzal-Rehman)
+
+---
+
 ### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
 
 ```yaml
@@ -22,13 +29,6 @@ Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection
 Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
 Currently: Microsoft XDR ANd Entra Security Advisors Program
 ```
-
----
-
-### 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Shahzal-Rehman)
-
----
 
 ### 🧰 Toolbox
 
