@@ -13,6 +13,41 @@ Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection
 Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
 Currently: Microsoft XDR ANd Entra Security Advisors Program
 ```
+<h1 align="center">
+  Bio
+</h1>
+  
+<img  width="150" height="150" src="https://avatars.githubusercontent.com/u/119114795?v=4" />
+
+👋 Myself Shahzal Rehman — a young technologist on a mission to become a 𝐅𝐮𝐭𝐮𝐫𝐞 Chief Information Security Officer  (𝐂𝐈𝐒𝐎𝐬) @ 𝐌𝐲 𝐃𝐫𝐞𝐚𝐦 𝐂𝐨𝐦𝐩𝐚𝐧𝐲, and someone about shaping my own era.
+Today, I’m building things, mentoring learners, and working with global tech communities.
+But the journey didn’t start there.
+I did what most curious builders do.
+  
+  <!--- Hardway --->  
+  
+<h1 align="center">
+   Hard Way
+    </h2>
+I 𝐞𝐱𝐩𝐞𝐫𝐢𝐦𝐞𝐧𝐭𝐞𝐝.
+I 𝐟𝐚𝐢𝐥𝐞𝐝..
+I learned the 𝐡𝐚𝐫𝐝 𝐰𝐚𝐲.
+Late nights exploring security labs, experimenting with cloud platforms, and understanding threat protection slowly taught me something powerful:
+"𝐢𝐦𝐩𝐚𝐜𝐭 𝐢𝐬 𝐛𝐨𝐫𝐧 𝐟𝐫𝐨𝐦 𝐬𝐭𝐫𝐮𝐠𝐠𝐥𝐞."
+That realization changed everything.
+<!--- Education --->  
+  
+<h1 align="center">
+    Education 
+    </h2>
+
+  `Bachelor` in `Cyber Security (CB)` - Superior University
+
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
+[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
+
+
+</p>
 
 
 
@@ -28,12 +63,6 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 </p>
 
 ---
-<p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
-[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
-
-</p>
 
 
 ### 📊 GitHub Stats
