@@ -14,17 +14,18 @@ Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook
 Currently: Microsoft XDR ANd Entra Security Advisors Program
 ```
 
+
+
+### 🏆 GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
+
+---
 ### 🧰 Toolbox
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,mongodb,python,azure,github,figma,vscode,linux" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
 
 ---
 <p align="center">
