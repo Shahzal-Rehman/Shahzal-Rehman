@@ -5,19 +5,17 @@
 
 </div>
 
----
+
 
 
 <p align="left">
   <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png">
 </p>
 
----
 
----
 
 ### 🏆 GitHub Trophies
- 
+
 ![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
 
 ---
@@ -49,20 +47,6 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 
 </div>
 
----
-### 📣 Let's Discuss Biography!
-Myself pursuing BS in CYBER SECURITY (2025-2029) from Superior University Gold Campus, Lahore . After completing HSSC in ICS-Physics (2023–2025) from Punjab Group of Colleges and SSC in Biology (2021–2023) from Fauji Foundation School,
-I bring focus, passion, and initiative to every role i step into — from classroom to stage. 
-Being Recognized early in my journey, I am multi-time Microsoft credential holder, including youngest 5x Microsoft CCP awardee of the year 2025 and holding the prestigious Defender XDR Black Belt from Microsoft — .
-As a Microsoft Student Ambassador (Beta) and GitHub Certified professional, along with various other credentials, i have made a significant impact on both the international and local levels. 
- My passion lies in creating real impact — through storytelling, leadership, and digital engagement. Whether hosting college events, creating content, or mentoring peers, i bring purpose to every interaction.  
-✨ I am here for you;
-▶️ youtube.com/@ShahzalRehman
-🔗 linkedin.com/in/orgshahzal
-ⓕ facebook.com/officialsshahzal
-🔗 linkedin.com/company/shahzalrehman
-「✨With Shahzal Rehman ✨」
- ✦-- GitHub | AWS | IBM | MLSA, CCP @ MSFT | Creds -----✦ credly.com/users/shahzal-rehman
 ---
 
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
