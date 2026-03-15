@@ -5,21 +5,6 @@
 
 </div>
 
-
-
-
-<p align="left">
-  <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png">
-</p>
-
-
-
-### 🏆 GitHub Trophies
-
-![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
-
----
-
 ### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
 
 ```yaml
@@ -37,6 +22,20 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 
 ---
 
+### 🏆 GitHub Trophies
+
+![](https://github-trophies.vercel.app/?username=Shahzal-Rehman&theme=onedark)] 
+
+---
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
+[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
+
+
+
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -46,12 +45,6 @@ Currently: Microsoft XDR ANd Entra Security Advisors Program
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzal-Rehman&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-[![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-shahzal-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/shahzal)
-[![Facebook](https://img.shields.io/badge/📘%20Facebook-officialsshahzal-blue?style=for-the-badge&logo=facebook)](https://fb.com/officialsshahzal)
-
 
 
 ### 📣 Let's Connect!
