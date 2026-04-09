@@ -59,17 +59,6 @@ That realization changed everything.
 ---
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Shahzal-Rehman&theme=tokyonight&show_icons=true&count_private=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzal-Rehman&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-
 ### 📣 Let's Connect!
 📩 And if you’re reading this — I’m here for you.
 → 𝐃𝐌 me for collaborations or mentorship
