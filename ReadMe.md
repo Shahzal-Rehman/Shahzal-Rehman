@@ -3,9 +3,9 @@
 
 ```yaml
 Name: Shahzal Rehman 
-Title: World Wide Learning Communities @ Microsoft + Microsoft Thread Protection Advisors Program (XDR & SIEM)  
+Title:World Wide Learning Communities @ Microsoft + Microsoft Thread Protection Advisors Program (XDR & SIEM)
 Focus: Kubernets,DevsecOp,Threat Intelligence,JupiterBook 
-Currently: Microsoft XDR ANd Entra Security Advisors Program
+Currently: Microsoft XDR, SIEM And Entra Security Advisors Program
 ```
 <p align="left"> <img alt="Download Folio" style="max-height: 20px;" src="./img/Download Folio/Download Folio.png"> </p>
 <h1 align="center">
