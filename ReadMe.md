@@ -1,5 +1,5 @@
 
-### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWWL @ Microsoft
+### 👑 Security Advisors & MVP(XDR & SIEM) Program + WWL @ Microsoft
 
 ```yaml
 Name: Shahzal Rehman 
